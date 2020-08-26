@@ -1,0 +1,2 @@
+# retara
+Gankestra short script
